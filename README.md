@@ -55,7 +55,7 @@
 
 <div class="container">
   <button onclick="startGaming()">Start Playing</button>
-  <iframe id="cloudFrame" src="https://www.xbox.com/play"></iframe>
+  <iframe id="cloudFrame" src="https://www.google.com"></iframe>
 </div>
 
 <script>
